@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Survey</string>
+    <string name="title">Survey for sweets!~</string>
+    <string name="intro">Please fill in 12 questions.</string>
+    <string name="q1">You like candy.</string>
+    <string name="q2">You prefer tea with a little sugar.</string>
+    <string name="q3">You prefer sweet drinks than plain boiled water.</string>
+    <string name="q4">You always want to eat some cakes.</string>
+    <string name="q5">You like some sweet dishes before or after meals.</string>
+    <string name="q6">You can make desserts by yourself.</string>
+    <string name="q7">You would recommend desserts to others.</string>
+    <string name="q8">Choose what you like.</string>
+    <string name="q9">Your name please.</string>
+    <string name="q10">Your nationality please.</string>
+    <string name="q11">Your age please.</string>
+    <string name="q12">Your Email please.</string>
+</resources>
